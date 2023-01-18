@@ -46,22 +46,22 @@ async def start_(client: Client, message: Message):
                         "➕ Add me to Group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                         "📚 Commands", url="https://telegra.ph/mizu-music-08-04-2"
+                         "COMMANDS", url="https://t.me/drewnotfound"
                     ),
                     InlineKeyboardButton(
-                        "💝 Donate", url=f"https://t.me/{OWNER_NAME}")
+                        "DONATE", url=f"https://t.me/{OWNER_NAME}")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "GROUP", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
+                        "GIT", url="https://github.com/LUCIDOXD")
                 ],[
                     InlineKeyboardButton(
-                        "💬 Ask For Help", url="https://t.me/veezcenterbot"
+                        "HELP", url="https://t.me/DREWNOTFOUND"
                     )
                 ]
             ]
